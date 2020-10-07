@@ -665,6 +665,11 @@ footer {
 
 .project-image {
     float: left;
+
+    .project-icon {
+        width: 280px;
+        margin: 10px;
+    }
 }
 
 .project-info {
